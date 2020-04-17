@@ -1,0 +1,221 @@
+{
+  "data_update_frequency": "-2",
+  "license_title": "Creative Commons Attribution Share-Alike",
+  "maintainer": "878dc76d-d357-4dce-8562-59f6421714e1",
+  "relationships_as_object": [],
+  "private": false,
+  "dataset_date": "03/01/2020-04/17/2020",
+  "num_tags": 4,
+  "solr_additions": "{\"countries\": [\"Bangladesh\", \"Cameroon\", \"Chile\", \"Colombia\", \"Democratic Republic of the Congo\", \"Ethiopia\", \"Kenya\", \"Rwanda\", \"South Africa\", \"Sri Lanka\", \"Uganda\", \"United Republic of Tanzania\", \"United States\"]}",
+  "id": "932b82bb-1a08-4bd9-8aaf-5abbe2f047fc",
+  "metadata_created": "2020-03-30T15:10:33.133211",
+  "archived": false,
+  "caveats": "Data collection is ongoing and data may change as more information is made available.",
+  "metadata_modified": "2020-04-17T14:01:47.497256",
+  "title": "Aid Security and COVID-19",
+  "subnational": "1",
+  "state": "active",
+  "has_geodata": false,
+  "methodology": "Other",
+  "version": null,
+  "is_requestdata_type": false,
+  "license_id": "cc-by-sa",
+  "type": "dataset",
+  "has_showcases": true,
+  "dataset_preview": "no_preview",
+  "num_resources": 1,
+  "dataset_source": "Insecurity Insight",
+  "tags": [
+    {
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1",
+      "state": "active",
+      "display_name": "covid-19",
+      "id": "4c4c6a4e-00b0-49b0-a1a5-e5082f91f6e6",
+      "name": "covid-19"
+    },
+    {
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1",
+      "state": "active",
+      "display_name": "health",
+      "id": "26fe3d20-9de7-436b-b47a-4f7f2e4547d0",
+      "name": "health"
+    },
+    {
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1",
+      "state": "active",
+      "display_name": "hxl",
+      "id": "a0fbb23a-6aad-4ccc-8062-e9ef9f20e5d2",
+      "name": "hxl"
+    },
+    {
+      "vocabulary_id": "b891512e-9516-4bf5-962a-7a289772a2a1",
+      "state": "active",
+      "display_name": "indicators",
+      "id": "08dade96-0bf4-4248-9d9f-421f7b844e53",
+      "name": "indicators"
+    }
+  ],
+  "last_modified": "2020-04-17T14:01:46.725492",
+  "revision_id": "66a4897d-6b8b-46f5-9476-446ea6759f68",
+  "groups": [
+    {
+      "display_name": "Bangladesh",
+      "description": "test",
+      "image_display_url": "",
+      "title": "Bangladesh",
+      "id": "bgd",
+      "name": "bgd"
+    },
+    {
+      "display_name": "Cameroon",
+      "description": "",
+      "image_display_url": "",
+      "title": "Cameroon",
+      "id": "cmr",
+      "name": "cmr"
+    },
+    {
+      "display_name": "Chile",
+      "description": "",
+      "image_display_url": "",
+      "title": "Chile",
+      "id": "chl",
+      "name": "chl"
+    },
+    {
+      "display_name": "Colombia",
+      "description": "",
+      "image_display_url": "",
+      "title": "Colombia",
+      "id": "col",
+      "name": "col"
+    },
+    {
+      "display_name": "Democratic Republic of the Congo",
+      "description": "",
+      "image_display_url": "",
+      "title": "Democratic Republic of the Congo",
+      "id": "cod",
+      "name": "cod"
+    },
+    {
+      "display_name": "Ethiopia",
+      "description": "",
+      "image_display_url": "",
+      "title": "Ethiopia",
+      "id": "eth",
+      "name": "eth"
+    },
+    {
+      "display_name": "Kenya",
+      "description": "",
+      "image_display_url": "",
+      "title": "Kenya",
+      "id": "ken",
+      "name": "ken"
+    },
+    {
+      "display_name": "Rwanda",
+      "description": "",
+      "image_display_url": "",
+      "title": "Rwanda",
+      "id": "rwa",
+      "name": "rwa"
+    },
+    {
+      "display_name": "South Africa",
+      "description": "",
+      "image_display_url": "",
+      "title": "South Africa",
+      "id": "zaf",
+      "name": "zaf"
+    },
+    {
+      "display_name": "Sri Lanka",
+      "description": "",
+      "image_display_url": "",
+      "title": "Sri Lanka",
+      "id": "lka",
+      "name": "lka"
+    },
+    {
+      "display_name": "Uganda",
+      "description": "",
+      "image_display_url": "",
+      "title": "Uganda",
+      "id": "uga",
+      "name": "uga"
+    },
+    {
+      "display_name": "United Republic of Tanzania",
+      "description": "",
+      "image_display_url": "",
+      "title": "United Republic of Tanzania",
+      "id": "tza",
+      "name": "tza"
+    },
+    {
+      "display_name": "United States",
+      "description": "",
+      "image_display_url": "",
+      "title": "United States",
+      "id": "usa",
+      "name": "usa"
+    }
+  ],
+  "creator_user_id": "878dc76d-d357-4dce-8562-59f6421714e1",
+  "has_quickcharts": true,
+  "methodology_other": "It is complied by Insecurity Insight using verified security incidents from aid agencies and information available in open sources. ",
+  "relationships_as_subject": [],
+  "total_res_downloads": 260,
+  "qa_completed": false,
+  "name": "aid-security-and-covid-19",
+  "isopen": true,
+  "url": null,
+  "notes": "This dataset includes the latest available information on COVID-19 developments impacting the security of aid work and operations to help aid agencies meet duty of care obligations to staff and reach people in need. ",
+  "owner_org": "648d346e-3995-44cc-a559-29f8192a3010",
+  "license_url": "http://www.opendefinition.org/licenses/cc-by-sa",
+  "resources": [
+    {
+      "cache_last_updated": null,
+      "package_id": "932b82bb-1a08-4bd9-8aaf-5abbe2f047fc",
+      "datastore_active": false,
+      "id": "0ce6850c-9191-4d2c-96ca-ef1b5c2f4a0d",
+      "size": 53914,
+      "revision_last_updated": "2020-04-17T14:01:47.495762",
+      "download_url": "http://data.humdata.org/dataset/932b82bb-1a08-4bd9-8aaf-5abbe2f047fc/resource/0ce6850c-9191-4d2c-96ca-ef1b5c2f4a0d/download/aid-security-and-covid-19-data-by-insecurity-insight.xlsx",
+      "state": "active",
+      "hash": "",
+      "description": "This dataset includes the latest available information on COVID-19 developments impacting the security of aid work and operations to help aid agencies meet duty of care obligations to staff and reach people in need. ",
+      "format": "XLSX",
+      "hdx_rel_url": "/dataset/932b82bb-1a08-4bd9-8aaf-5abbe2f047fc/resource/0ce6850c-9191-4d2c-96ca-ef1b5c2f4a0d/download/aid-security-and-covid-19-data-by-insecurity-insight.xlsx",
+      "last_modified": "2020-04-17T14:01:46.725492",
+      "url_type": "upload",
+      "originalHash": "432310567",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "cache_url": null,
+      "name": "Aid Security and COVID-19 Data by Insecurity Insight.xlsx",
+      "created": "2020-03-30T15:10:37.604710",
+      "url": "http://data.humdata.org/dataset/932b82bb-1a08-4bd9-8aaf-5abbe2f047fc/resource/0ce6850c-9191-4d2c-96ca-ef1b5c2f4a0d/download/aid-security-and-covid-19-data-by-insecurity-insight.xlsx",
+      "mimetype_inner": null,
+      "position": 0,
+      "revision_id": "e3200284-3c96-4d28-8e3e-12981cd10d0d",
+      "resource_type": "file.upload"
+    }
+  ],
+  "pageviews_last_14_days": 451,
+  "organization": {
+    "description": "Insecurity Insight is an association dedicated to helping organisations to collect, manage and analyse data on 'people in danger'. Insecurity Insight runs the Aid in Danger project in partnership with security focal points from humanitarian organisations. The projects pools confidential security incident data and provides trend and topic analysis on humanitarian security for the humanitarian community.",
+    "created": "2016-01-21T15:11:15.377110",
+    "title": "Insecurity Insight",
+    "name": "insecurity-insight",
+    "is_organization": true,
+    "state": "active",
+    "image_url": "",
+    "revision_id": "bdf63797-bb17-47f0-99c2-26674039accb",
+    "type": "organization",
+    "id": "648d346e-3995-44cc-a559-29f8192a3010",
+    "approval_status": "approved"
+  },
+  "package_creator": "helenb"
+}
